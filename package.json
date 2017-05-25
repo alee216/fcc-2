@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,5 +15,9 @@
     "url": "https://github.com/alee216/fcc-2/issues"
   },
   "homepage": "https://github.com/alee216/fcc-2#readme",
-  "description": ""
+  "description": "Hello World!",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
 }
