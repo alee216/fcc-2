@@ -16,8 +16,6 @@
   },
   "homepage": "https://github.com/alee216/fcc-2#readme",
   "description": "Hello World!",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
